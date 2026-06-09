@@ -1,0 +1,19 @@
+{
+  "name": "react-native-pro-accordion",
+  "version": "1.0.0",
+  "main": "./lib/commonjs/index.js",
+  "module": "./lib/module/index.js",
+  "react-native": "./lib/module/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "bob build"
+  },
+  "peerDependencies": {
+    "react": ">=19.0.0",
+    "react-native": ">=0.81.4",
+    "react-native-reanimated": ">=3.0.0"
+  },
+  "devDependencies": {
+    "react-native-builder-bob": "^0.30.0"
+  }
+}
