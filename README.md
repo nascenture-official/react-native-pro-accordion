@@ -24,10 +24,10 @@ Install directly from the local package (update the path to match your project s
 
 ```bash
 # npm
-npm install ../react-native-pro-accordion/react-native-pro-accordion-1.0.0.tgz
+npm install react-native-pro-accordion
 
 # yarn
-yarn add ../react-native-pro-accordion/react-native-pro-accordion-1.0.0.tgz
+yarn add react-native-pro-accordion
 ```
 
 > **Note:** This package uses [Reanimated v3](https://docs.swmansion.com/react-native-reanimated/). Make sure it is installed and configured in your project before using this library.
