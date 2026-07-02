@@ -473,4 +473,11 @@ This component is built with accessibility as a first-class concern:
 
 ## 📄 License
 
-MIT © react-native-pro-accordion contributors
+This project is under the MIT license.
+
+## 👨‍💻 Author
+
+Built with ❤️ by **Nascenture**.
+
+- 🌐 Website: https://www.nascenture.com
+- 📱 React Native Development Services: https://www.nascenture.com/react-native-app-development/
