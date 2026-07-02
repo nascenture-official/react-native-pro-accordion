@@ -1,6 +1,6 @@
 {
   "name": "react-native-pro-accordion",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./lib/commonjs/index.js",
   "module": "./lib/module/index.js",
   "react-native": "./lib/module/index.js",

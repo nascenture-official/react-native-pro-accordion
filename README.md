@@ -477,12 +477,6 @@ This project is under the MIT license.
 
 ---
 
-## 🏷️ Keywords
-
-React Native, React Native Accordion, Accordion Component, Collapsible, Expandable, Reanimated, TypeScript, Android, iOS, Accessibility, Mobile UI
-
----
-
 ## 👨‍💻 Author
 
 Built with ❤️ by **Nascenture**.
