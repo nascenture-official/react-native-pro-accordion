@@ -479,7 +479,7 @@ This project is under the MIT license.
 
 ## 🏷️ Keywords
 
-React Native, React Native Accordion, Accordion Component, React Native UI, React Native Library, Collapsible, Expandable, Expand Collapse, Android, iOS, Cross Platform, Reanimated, Animated Accordion, Accessibility, VoiceOver, TalkBack, Keyboard Navigation, TypeScript, Theme Support, Dark Mode, Light Mode, Lazy Rendering, Mobile UI, Native UI, UI Library, Production Ready, Performance
+React Native, React Native Accordion, Accordion Component, Collapsible, Expandable, Reanimated, TypeScript, Android, iOS, Accessibility, Mobile UI
 
 ---
 
